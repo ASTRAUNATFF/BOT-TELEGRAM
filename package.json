@@ -1,0 +1,22 @@
+{
+  "name": "crypto-telegram-bot",
+  "version": "1.0.0",
+  "description": "telegram bot crypto for data",
+  "main": "fat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node fat.cjs"
+  },
+  "author": "Men In Black",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "node-cron": "^3.0.2",
+    "node-fetch": "^2.7.0",
+    "node-telegram-bot-api": "^0.64.0",
+    "telegraf": "^4.15.0"
+  },
+  "keywords": [],
+  "type": "module"
+}
