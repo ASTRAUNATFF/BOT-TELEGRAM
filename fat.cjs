@@ -1,3 +1,6 @@
+// Dòng code tới đây. Chạy lệnh npm start thì nó chạy và không có báo lỗi gì mà nó chỉ nhận lệnh /start còn lệnh /p không nhận em đang tìm cách để sửa mà tìm chưa được
+// Hai chạy thử xem.
+
 console.clear();
 const TelegramBot = require("node-telegram-bot-api");
 const fetch = require('node-fetch');
